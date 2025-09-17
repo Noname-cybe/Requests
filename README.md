@@ -12,7 +12,7 @@ Hanya untuk tujuan pendidikan
 
 ## Menjalankan aplikasi
 
-### 🟢 1. Jalankan versi `.exe`
+###  1. Jalankan versi `.exe`
 
 Jika kamu hanya ingin langsung menggunakan aplikasinya:
 
@@ -24,7 +24,7 @@ Jika kamu hanya ingin langsung menggunakan aplikasinya:
 
 ---
 
-### 🧑‍💻 2. Menjalankan dari Source Code (opsional)
+###  2. Menjalankan dari Source Code (opsional)
 
 #### Persyaratan :
 - Windows 10/11
