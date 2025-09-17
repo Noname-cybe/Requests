@@ -26,11 +26,11 @@ Jika kamu hanya ingin langsung menggunakan aplikasinya:
 
 ### 🧑‍💻 2. Menjalankan dari Source Code (opsional)
 
-#### Persyaratan:
+#### Persyaratan :
 - Windows 10/11
 - Python 3.11 (versi yang kompatibel)
 
-#### Langkah-langkah:
+#### Langkah - langkah :
 
 ```bash
 git clone https://github.com/Noname-cybe/Requests
