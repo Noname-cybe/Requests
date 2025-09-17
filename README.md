@@ -1,6 +1,6 @@
 # Requests  (Windows Only)
 
-> 🔒 **Catatan:** Project ini hanya berjalan di sistem operasi **Windows**. Tidak kompatibel dengan Linux, Termux, atau MacOS.
+> *Catatan:** Project ini hanya berjalan di sistem operasi **Windows**. Tidak kompatibel dengan Linux, Termux, atau MacOS.
 
 ---
 
