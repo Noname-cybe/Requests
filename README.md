@@ -19,9 +19,6 @@ Jika kamu hanya ingin langsung menggunakan aplikasinya:
 1. Buka folder `dist/`
 2. Jalankan `main.exe` (klik dua kali atau via CMD)
 
-> ✅ Tidak perlu menginstall Python
-> ✅ Tidak perlu install library seperti `aiohttp` atau `colorama`
-
 ---
 
 ###  2. Menjalankan dari Source Code (opsional)
