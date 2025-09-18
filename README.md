@@ -28,11 +28,11 @@ Jika kamu hanya ingin langsung menggunakan aplikasinya:
 - Python 3.11 (versi yang kompatibel)
 
 #### Langkah - langkah :
-
-- git clone https://github.com/Noname-cybe/Requests
-- cd Requests
-- pip install -r requirements.txt
-
+```bash
+git clone https://github.com/Noname-cybe/Requests
+cd Requests
+pip install -r requirements.txt
+```
 
 #### Run :
 python run.py
