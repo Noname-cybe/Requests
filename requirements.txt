@@ -1,4 +1,5 @@
-aiohttp==3.9.5
-pystyle==1.1.0
-colorama==0.4.6
-multiprocess==0.70.15
+requests
+aiohttp
+pystyle
+colorama
+multiprocess
