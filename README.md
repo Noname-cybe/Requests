@@ -33,9 +33,9 @@ Jika kamu hanya ingin langsung menggunakan aplikasinya:
 - cd Requests
 - pip install -r requirements.txt
 
-___
 
 #### MENJALANKAN :
 
-```bash
 python run.py
+- input url yg mau di test 
+
