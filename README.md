@@ -35,8 +35,8 @@ cd Requests
 pip install -r requirements.txt
 
 
-## MENJALANKAN
-`bash
+#### MENJALANKAN
+
 python run.py
 
 
