@@ -32,7 +32,7 @@ Jika kamu hanya ingin langsung menggunakan aplikasinya:
 ```bash
 git clone https://github.com/Noname-cybe/Requests
 cd Requests
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 ---
 
