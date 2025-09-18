@@ -35,6 +35,7 @@ pip install -r requirements.txt
 ```
 
 #### Run :
+```bash
 python run.py
 - lalu input url yg mau di test 
 
