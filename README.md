@@ -6,7 +6,7 @@
 
 ## Deskripsi
 
-Hanya untuk tujuan pendidikan, pergunakanlah dengan bijak !
+Hanya untuk tujuan pendidikan, gunakanlah dengan bijak🤵 !
 
 ---
 
