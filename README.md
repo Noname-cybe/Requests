@@ -35,5 +35,5 @@ cd Requests
 pip install -r requirements.txt
 python run.py
 
- **,Lalu**
+ **Lalu**
 - input url web yg ingin di test
