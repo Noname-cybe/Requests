@@ -29,7 +29,6 @@ Jika kamu hanya ingin langsung menggunakan aplikasinya:
 
 #### Langkah - langkah :
 
-```bash
 git clone https://github.com/Noname-cybe/Requests
 cd Requests
 pip install -r requirements.txt
