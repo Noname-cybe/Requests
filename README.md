@@ -4,7 +4,7 @@
 
 ---
 
-## 📦 Deskripsi
+## Deskripsi
 
 Hanya untuk tujuan pendidikan 
 
