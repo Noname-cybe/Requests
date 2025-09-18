@@ -34,8 +34,7 @@ Jika kamu hanya ingin langsung menggunakan aplikasinya:
 - pip install -r requirements.txt
 
 
-#### Menjalankan :
-
+#### Run :
 python run.py
 - lalu input url yg mau di test 
 
