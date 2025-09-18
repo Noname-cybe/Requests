@@ -33,7 +33,7 @@ Jika kamu hanya ingin langsung menggunakan aplikasinya:
 git clone https://github.com/Noname-cybe/Requests
 cd Requests
 pip install -r requirements.txt
-python run.py
 
-,Lalu
+### Menajalankan :
+python run.py
 - input url web yg ingin di test
