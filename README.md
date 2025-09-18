@@ -29,13 +29,13 @@ Jika kamu hanya ingin langsung menggunakan aplikasinya:
 
 #### Langkah - langkah :
 
-git clone https://github.com/Noname-cybe/Requests
-cd Requests
-pip install -r requirements.txt
+- git clone https://github.com/Noname-cybe/Requests
+- cd Requests
+- pip install -r requirements.txt
 
 ___
 
-##### MENJALANKAN :
+#### MENJALANKAN :
 
 ```bash
 python run.py
